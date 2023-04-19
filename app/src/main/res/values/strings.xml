@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cursoandroid5</string>
+    <string name="speak_text_default">ingresa un texto</string>
+    <string name="speak_message_default">En serio, ingresa un texto</string>
+    <string name="tvstatus_text_ok">Listo!</string>
+    <string name="tvstatus_text_nok">No Dispnible !</string>
+    <string name="et_hint_text">Escribe algo</string>
+    <string name="btn_play">Play</string>
+</resources>
